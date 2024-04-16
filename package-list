@@ -1,0 +1,8 @@
+geoanalytique
+geoanalytique.controleur
+geoanalytique.graphique
+geoanalytique.gui
+geoanalytique.model
+geoanalytique.model.geoobject.operation
+geoanalytique.util
+geoanalytique.view
